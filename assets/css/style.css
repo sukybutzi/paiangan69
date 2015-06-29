@@ -8,3 +8,7 @@
     background-image: url('https://rawgit.com/Benzi/Qluster/master/assets/images/badges/eyes.png') !important;
     background-position: 0 0;
 }
+[data-cid^="4296722-"] .badge-box .bdg {
+    background-image: url('https://rawgit.com/Benzi/Qluster/master/assets/images/badges/qbot.png') !important;
+    background-position: 0 0;
+}
