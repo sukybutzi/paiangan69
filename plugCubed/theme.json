@@ -1,0 +1,42 @@
+{
+    "room": "EDM Qluster",
+    "author": "Benzi",
+    "colors": {
+        "background": "",
+        "chat": {
+            "admin": "",
+            "ambassador": "",
+            "host": "",
+            "cohost": "",
+            "manager": "",
+            "bouncer": "",
+            "residentdj": ""
+        },
+        "header": "",
+        "footer": ""
+    },
+    "css": {
+        "font": [],
+        "import": ["https://rawgit.com/Benzi/Qluster/master/assets/css/theme.css"],
+        "rule": {}
+    },
+    "images": {
+        "background": "",
+        "booth": "",
+        "playback": "",
+        "icons": {
+            "admin": "",
+            "ambassador": "",
+            "host": "",
+            "cohost": "",
+            "manager": "",
+            "bouncer": "",
+            "residentdj": ""
+        }
+    },
+    "rules": {
+        "allowAutorespond": "false",
+        "allowAutowoot": "true",
+        "allowAutojoin": "false"
+    }
+}
