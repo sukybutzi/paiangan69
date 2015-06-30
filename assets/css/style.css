@@ -189,6 +189,12 @@
  from { color: #20234c; }
  to { color: #aa74ff; }
 }*/
+[data-cid^="4296722-"] span.un.clickable {
+    color: #FFFFFF!important;
+}
+[data-cid^="4296722-"] .msg .from .icon-chat-manager {
+    background: url("https://rawgit.com/Benzi/Qluster/master/assets/images/icons/bot.png")!important;
+}
 [data-cid^="4296722-"] .badge-box .bdg {
     background: url('https://rawgit.com/Benzi/Qluster/master/assets/images/badges/qbot.png')!important;
     background-position: 0 0;
