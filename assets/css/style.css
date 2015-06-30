@@ -5,6 +5,7 @@
 #chat .emote:nth-child(2n+1),
 #chat .update:nth-child(2n+1),
 #chat .welcome:nth-child(2n+1) {
+    background-color: rgba(28, 31, 37, 0.32);
     -webkit-animation: fadein 0.25s;
     -moz-animation: fadein 0.25s;
     -ms-animation: fadein 0.25s;
