@@ -30,7 +30,7 @@
     border-left: #CE403D 3px solid;
 }
 #chat .emote .from {
-    color: #ac76ff!important;
+    color: #AC76FF!important;
 }
 #chat .emote {
     border-left: rgba(172, 118, 255, 1) 3px solid!important;
@@ -39,7 +39,7 @@
 #chat-messages .emote .icon {}#chat .emote .text {
     font-style: normal;
     font-weight: bold;
-    color: #ac76ff;
+    color: #AC76FF;
 }
 #footer {
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0.25) 0, rgba(0, 0, 0, 0.75) 100%);
@@ -66,14 +66,29 @@
 #filter-bar {
     background: rgba(17, 19, 23, 0.77);
 }
+#playlist-activate-button {
+    background: none !important;
+}
+#playlist-activate-button span {
+    color: #AC76FF !important;
+}
 #playlist-edit-button {
-    background: rgba(85, 93, 112, 0.75);
+    background: none !important;
+}
+#playlist-edit-button span {
+    color: #AC76FF !important;
 }
 #playlist-shuffle-button {
-    background: rgba(68, 74, 89, 0.75);
+    background: none !important;
+}
+#playlist-shuffle-button span {
+    color: #AC76FF !important;
 }
 #playlist-delete-button {
-    background: rgba(50, 55, 66, 0.75);
+    background: none !important;
+}
+#playlist-delete-button span {
+    color: #AC76FF !important;
 }
 #user-panel .score {
     background: rgba(28, 31, 37, 0.59);
