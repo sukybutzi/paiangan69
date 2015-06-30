@@ -4,7 +4,7 @@
 .app-header {
     background: linear-gradient(to bottom, rgba(255, 255, 255, 0.25) 0, rgba(28, 31, 37, 1) 100%)!important;
 }
-.store-button {
+.store-button .icon-store-white {
     background: linear-gradient(to bottom, #00b265 0, #00d679 100%)!important;
 }
 #plug-dj {
@@ -91,7 +91,7 @@
 }
 .social-menu .icon-twitter,
 .social-menu .icon-facebook {
-    opacity: 1;
+    opacity: 0.5;
 }
 #playlist-panel {
     background: rgba(17, 19, 23, 0.9);
