@@ -90,6 +90,12 @@
 #playlist-delete-button span {
     color: #AC76FF !important;
 }
+#footer-user .bar .progress {
+    background: #AC76FF !important;
+}
+.experience .xp .bar .progress {
+    background: #AC76FF !important;
+}
 #user-panel .score {
     background: rgba(28, 31, 37, 0.59);
 }
