@@ -73,14 +73,13 @@
     background: url('https://rawgit.com/Benzi/Qluster/master/assets/images/badges/qbot.png')!important;
     background-position: 0 0;
 }
-[data-cid^="3851534-"] span.un.clickable {
+[data-cid^="3851534-"] .un .clickable {
  -webkit-animation: color_change 1s infinite alternate;
  -moz-animation: color_change 1s infinite alternate;
  -ms-animation: color_change 1s infinite alternate;
  -o-animation: color_change 1s infinite alternate;
  animation: color_change 1s infinite alternate;
 }
-
 @-webkit-keyframes color_change {
  from { color: #20234c; }
  to { color: #aa74ff; }
