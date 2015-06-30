@@ -25,6 +25,14 @@
     },
     "images": {
         "background": "https://rawgit.com/Benzi/Qluster/master/assets/images/background.png",
-        "playback": "https://rawgit.com/Benzi/Qluster/master/assets/images/playback.png"
+        "playback": "https://rawgit.com/Benzi/Qluster/master/assets/images/playback.png",
+        "admin": "https://rawgit.com/Benzi/Qluster/master/assets/images/icons/admin.png",
+        "ambassador": "https://rawgit.com/Benzi/Qluster/master/assets/images/icons/ambassador.png",
+        "host": "https://rawgit.com/Benzi/Qluster/master/assets/images/icons/host.png",
+        "cohost": "https://rawgit.com/Benzi/Qluster/master/assets/images/icons/cohost.png",
+        "manager": "https://rawgit.com/Benzi/Qluster/master/assets/images/icons/manager.png",
+        "bouncer": "https://rawgit.com/Benzi/Qluster/master/assets/images/icons/bouncer.png",
+        "rdj": "https://rawgit.com/Benzi/Qluster/master/assets/images/icons/rdj.png",
+        "subscriber": "https://rawgit.com/Benzi/Qluster/master/assets/images/icons/subscriber.png"
     }
 }
