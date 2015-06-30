@@ -82,22 +82,22 @@
 }
 
 @-webkit-keyframes color_change {
- from { color: #00B6CD; }
+ from { color: #efed2e; }
  to { color: #aa74ff; }
 }
 @-moz-keyframes color_change {
- from { color: #00B6CD; }
+ from { color: #efed2e; }
  to { color: #aa74ff; }
 }
 @-ms-keyframes color_change {
- from { color: #00B6CD; }
+ from { color: #efed2e; }
  to { color: #aa74ff; }
 }
 @-o-keyframes color_change {
- from { color: #00B6CD; }
+ from { color: #efed2e; }
  to { color: #aa74ff; }
 }
 @keyframes color_change {
- from { color: #00B6CD; }
+ from { color: #efed2e; }
  to { color: #aa74ff; }
 }
