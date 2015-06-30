@@ -39,7 +39,7 @@
         background: linear-gradient(to right, rgba(0, 0, 0, 0.70) 0, rgba(0, 0, 0, 1) 100%);
     }
 }
-#chat {
+#chat-messages {
     background-color: rgba(28, 31, 37, 0.32);
     -webkit-animation: fadein 0.25s;
     -moz-animation: fadein 0.25s;
