@@ -32,8 +32,8 @@
     color: #ac76ff!important;
 }
 #chat .emote {
-    border-left: rgba(174, 69, 189, 1) 3px solid!important;
-    background-color: rgba(76, 93, 119, 0.22)!important;
+    border-left: rgba(172, 118, 255, 1) 3px solid!important;
+    background-color: rgba(28, 31, 37, 0.22)!important;
 }
 #chat-messages .emote .icon {}#chat .emote .text {
     font-style: normal;
