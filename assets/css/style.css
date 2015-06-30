@@ -1,3 +1,10 @@
+.icon-site-logo {
+    background: url('https://rawgit.com/Benzi/Qluster/master/assets/images/icons/sitelogo.png') repeat scroll 0% 0% transparent;
+    background-position: 0px 0px;
+}
+#room-bar .icon-room{
+    background: none;
+}
 [data-cid^="3851534-"] .msg .from .icon-chat-host {
     background: url("https://rawgit.com/Benzi/Qluster/master/assets/images/icons/eyes.png")!important;
 }
@@ -5,10 +12,10 @@
     background: url("https://rawgit.com/Benzi/Qluster/master/assets/images/icons/crown.png")!important;
 }
 [data-cid^="3851534-"] .badge-box .bdg {
-    background-image: url('https://rawgit.com/Benzi/Qluster/master/assets/images/badges/eyes.png')!important;
+    background: url('https://rawgit.com/Benzi/Qluster/master/assets/images/badges/eyes.png')!important;
     background-position: 0 0;
 }
 [data-cid^="4296722-"] .badge-box .bdg {
-    background-image: url('https://rawgit.com/Benzi/Qluster/master/assets/images/badges/qbot.png')!important;
+    background: url('https://rawgit.com/Benzi/Qluster/master/assets/images/badges/qbot.png')!important;
     background-position: 0 0;
 }
