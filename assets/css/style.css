@@ -208,3 +208,6 @@
     background: url('https://rawgit.com/Benzi/Qluster/master/assets/images/badges/qbot.png')!important;
     background-position: 0 0;
 }
+#user-lists .id-4296722 .list.room .user .icon-chat-manager + .name {
+    color: #FFFFFF;
+}
