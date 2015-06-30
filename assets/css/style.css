@@ -168,11 +168,11 @@
     right: 35px!important;
 }
 .icon-site-logo {
-    background: url('https://cdn.rawgit.com/Benzi/Qluster/master/assets/images/icons/sitelogo.png') repeat scroll 0% 0% transparent;
+    background: url('https://rawgit.com/Benzi/Qluster/master/assets/images/icons/sitelogo.png') repeat scroll 0% 0% transparent;
     background-position: 0px 0px;
 }
 #room-bar .icon-room{
-    background: url('https://cdn.rawgit.com/Benzi/Qluster/master/assets/images/icons/descicon.png');
+    background: url('https://rawgit.com/Benzi/Qluster/master/assets/images/icons/descicon.png');
 }
 #dashboard .search{
     border-radius: 15px;
@@ -184,13 +184,13 @@
     background: linear-gradient(to top, rgba(0, 0, 0, 0.25) 0, rgba(0, 0, 0, 0.75) 100%)!important;   
 }
 /*[data-cid^="3851534-"] .msg .from .icon-chat-host {
-    background: url("https://cdn.rawgit.com/Benzi/Qluster/master/assets/images/icons/eyes.png")!important;
+    background: url("https://rawgit.com/Benzi/Qluster/master/assets/images/icons/eyes.png")!important;
 }
 [data-cid^="3851534-"] .msg .from .icon-chat-subscriber {
-    background: url("https://cdn.rawgit.com/Benzi/Qluster/master/assets/images/icons/crown.png")!important;
+    background: url("https://rawgit.com/Benzi/Qluster/master/assets/images/icons/crown.png")!important;
 }*/
 [data-cid^="3851534-"] .badge-box .bdg {
-    background: url('https://cdn.rawgit.com/Benzi/Qluster/master/assets/images/badges/eyes.png')!important;
+    background: url('https://rawgit.com/Benzi/Qluster/master/assets/images/badges/eyes.png')!important;
     background-position: 0 0;
 }
 /*[data-cid^="3851534-"] span.un.clickable {
@@ -224,10 +224,10 @@
     color: #FFFFFF!important;
 }
 [data-cid^="4296722-"] .msg .from .icon-chat-manager {
-    background: url("https://cdn.rawgit.com/Benzi/Qluster/master/assets/images/icons/bot.png")!important;
+    background: url("https://rawgit.com/Benzi/Qluster/master/assets/images/icons/bot.png")!important;
 }
 [data-cid^="4296722-"] .badge-box .bdg {
-    background: url('https://cdn.rawgit.com/Benzi/Qluster/master/assets/images/badges/qbot.png')!important;
+    background: url('https://rawgit.com/Benzi/Qluster/master/assets/images/badges/qbot.png')!important;
     background-position: 0 0;
 }
 /*#user-lists .id-4296722 .list.room .user .icon-chat-manager + .name {
