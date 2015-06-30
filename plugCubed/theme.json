@@ -17,21 +17,21 @@
     },
     "css": {
         "font": [],
-        "import": ["https://rawgit.com/Benzi/Qluster/master/assets/css/style.css"],
+        "import": ["https://cdn.rawgit.com/Benzi/Qluster/master/assets/css/style.css"],
         "rule": {}
     },
     "images": {
-        "background": "https://rawgit.com/Benzi/Qluster/master/assets/images/background.png",
+        "background": "https://cdn.rawgit.com/Benzi/Qluster/master/assets/images/background.png",
         "booth": "",
-        "playback": "https://rawgit.com/Benzi/Qluster/master/assets/images/playback.png",
+        "playback": "https://cdn.rawgit.com/Benzi/Qluster/master/assets/images/playback.png",
         "icons": {
-            "admin": "https://rawgit.com/Benzi/Qluster/master/assets/images/icons/admin.png",
-            "ambassador": "https://rawgit.com/Benzi/Qluster/master/assets/images/icons/ambassador.png",
-            "host": "https://rawgit.com/Benzi/Qluster/master/assets/images/icons/host.png",
-            "cohost": "https://rawgit.com/Benzi/Qluster/master/assets/images/icons/cohost.png",
-            "manager": "https://rawgit.com/Benzi/Qluster/master/assets/images/icons/manager.png",
-            "bouncer": "https://rawgit.com/Benzi/Qluster/master/assets/images/icons/bouncer.png",
-            "residentdj": "https://rawgit.com/Benzi/Qluster/master/assets/images/icons/rdj.png"
+            "admin": "https://cdn.rawgit.com/Benzi/Qluster/master/assets/images/icons/admin.png",
+            "ambassador": "https://cdn.rawgit.com/Benzi/Qluster/master/assets/images/icons/ambassador.png",
+            "host": "https://cdn.rawgit.com/Benzi/Qluster/master/assets/images/icons/host.png",
+            "cohost": "https://cdn.rawgit.com/Benzi/Qluster/master/assets/images/icons/cohost.png",
+            "manager": "https://cdn.rawgit.com/Benzi/Qluster/master/assets/images/icons/manager.png",
+            "bouncer": "https://cdn.rawgit.com/Benzi/Qluster/master/assets/images/icons/bouncer.png",
+            "residentdj": "https://cdn.rawgit.com/Benzi/Qluster/master/assets/images/icons/rdj.png"
         }
     },
     "rules": {
