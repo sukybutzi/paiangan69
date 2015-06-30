@@ -23,7 +23,7 @@
     "images": {
         "background": "",
         "booth": "",
-        "playback": "",
+        "playback": "https://rawgit.com/Benzi/Qluster/master/assets/images/playback.png",
         "icons": {
             "admin": "",
             "ambassador": "",

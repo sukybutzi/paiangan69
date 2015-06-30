@@ -14,6 +14,6 @@
     "ccc": {},
     "images": {
         "background": null,
-        "playback": null
+        "playback": "https://rawgit.com/Benzi/Qluster/master/assets/images/playback.png"
     }
 }
