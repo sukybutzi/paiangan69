@@ -13,7 +13,7 @@
     },
     "ccc": {},
     "images": {
-        "background": null,
+        "background": "https://rawgit.com/Benzi/Qluster/master/assets/images/background.png",
         "playback": "https://rawgit.com/Benzi/Qluster/master/assets/images/playback.png"
     }
 }

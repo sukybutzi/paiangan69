@@ -21,7 +21,7 @@
         "rule": {}
     },
     "images": {
-        "background": "",
+        "background": "https://rawgit.com/Benzi/Qluster/master/assets/images/background.png",
         "booth": "",
         "playback": "https://rawgit.com/Benzi/Qluster/master/assets/images/playback.png",
         "icons": {
