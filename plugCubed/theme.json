@@ -4,13 +4,13 @@
     "colors": {
         "background": "",
         "chat": {
-            "admin": "#58C8F9",
-            "ambassador": "#A1D621",
-            "host": "#FFD400",
-            "cohost": "#FF7900",
-            "manager": "#9265D9",
-            "bouncer": "#657EB7",
-            "residentdj": "#FC1A76"
+            "admin": "#58c8f9",
+            "ambassador": "#a1d621",
+            "host": "#ff003d",
+            "cohost": "#ff9700",
+            "manager": "#ac76ff",
+            "bouncer": "#657eb7",
+            "residentdj": "#e8cf38"
         },
         "header": "",
         "footer": ""
