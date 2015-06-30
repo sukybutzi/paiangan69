@@ -11,7 +11,18 @@
         "allowEmotes": true,
         "forceSmartVote": false
     },
-    "ccc": {},
+    "ccc": {
+        "admin": "#58C8F9",
+        "ambassador": "#A1D621",
+        "host": "#FFD400",
+        "cohost": "#FF7900",
+        "manager": "#9265D9",
+        "bouncer": "#657EB7",
+        "rdj": "#FC1A76",
+        "subscriber": "#CCCCCC",
+        "friend": "#EFA0A6",
+        "user": "#CCCCCC"        
+    },
     "images": {
         "background": "https://rawgit.com/Benzi/Qluster/master/assets/images/background.png",
         "playback": "https://rawgit.com/Benzi/Qluster/master/assets/images/playback.png"
