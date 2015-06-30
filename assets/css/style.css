@@ -27,6 +27,7 @@
 }
 #chat .mention {
     font-weight: bold;
+    border-left: #CE403D 3px solid;
 }
 #chat .emote .from {
     color: #ac76ff!important;
