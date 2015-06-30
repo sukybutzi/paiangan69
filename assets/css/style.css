@@ -4,7 +4,7 @@
 .app-header {
     background: linear-gradient(to bottom, rgba(255, 255, 255, 0.25) 0, rgba(28, 31, 37, 1) 100%)!important;
 }
-.store-button .icon-store-white {
+.store-button .icon {
     background: linear-gradient(to bottom, #00b265 0, #00d679 100%)!important;
 }
 #plug-dj {
@@ -39,7 +39,7 @@
         background: linear-gradient(to right, rgba(0, 0, 0, 0.70) 0, rgba(0, 0, 0, 1) 100%);
     }
 }
-#chat .message:nth-child(2n+1),
+#chat #chat-messages:nth-child(2n+1),
 #chat .mention:nth-child(2n+1),
 #chat .skip:nth-child(2n+1),
 #chat .moderation:nth-child(2n+1),
@@ -55,7 +55,7 @@
 }
 #chat .emote,
 #chat .mention,
-#chat .message,
+#chat #chat-messages,
 #chat .moderation,
 #chat .skip,
 #chat .system,
