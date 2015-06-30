@@ -59,12 +59,12 @@
 #room-bar .icon-room{
     background: none;
 }
-[data-cid^="3851534-"] .msg .from .icon-chat-host {
+/*[data-cid^="3851534-"] .msg .from .icon-chat-host {
     background: url("https://rawgit.com/Benzi/Qluster/master/assets/images/icons/eyes.png")!important;
 }
 [data-cid^="3851534-"] .msg .from .icon-chat-subscriber {
     background: url("https://rawgit.com/Benzi/Qluster/master/assets/images/icons/crown.png")!important;
-}
+}*/
 [data-cid^="3851534-"] .badge-box .bdg {
     background: url('https://rawgit.com/Benzi/Qluster/master/assets/images/badges/eyes.png')!important;
     background-position: 0 0;
