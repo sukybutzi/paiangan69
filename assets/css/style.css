@@ -152,6 +152,15 @@
 #room-bar .icon-room{
     background: url('https://rawgit.com/Benzi/Qluster/master/assets/images/icons/descicon.png');
 }
+#dashboard .search{
+    border-radius: 15px;
+}
+#chat-input{
+    border-radius: 15px;
+}
+#dashboard{
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.25) 0, rgba(0, 0, 0, 0.75) 100%)!important;   
+}
 /*[data-cid^="3851534-"] .msg .from .icon-chat-host {
     background: url("https://rawgit.com/Benzi/Qluster/master/assets/images/icons/eyes.png")!important;
 }
