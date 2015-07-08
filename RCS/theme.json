@@ -9,7 +9,8 @@
         "allowAutograb": false,
         "allowSmartVote": true,
         "allowEmotes": true,
-        "forceSmartVote": false
+        "forceSmartVote": false,
+        "allowShowingMehs": true
     },
     "ccc": {
         "admin": "#58c8f9",
@@ -21,7 +22,7 @@
         "rdj": "#e8cf38",
         "subscriber": "#cccccc",
         "friend": "#efa0a6",
-        "user": "#cccccc"        
+        "user": "#cccccc"
     },
     "images": {
         "background": "https://rawgit.com/Benzi/Qluster/master/assets/images/background.png",
@@ -34,5 +35,9 @@
         "bouncer": "https://rawgit.com/Benzi/Qluster/master/assets/images/icons/bouncer.png",
         "rdj": "https://rawgit.com/Benzi/Qluster/master/assets/images/icons/rdj.png",
         "subscriber": "https://rawgit.com/Benzi/Qluster/master/assets/images/icons/subscriber.png"
+    },
+    "autocomplete": [],
+    "emotes": {
+        "iz": "https://rawgit.com/Benzi/Qluster/master/assets/images/emotes/iz.png"
     }
 }
