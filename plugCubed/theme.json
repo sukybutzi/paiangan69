@@ -1,6 +1,6 @@
 {
-    "room": "EDM Qluster",
-    "author": "Benzi",
+    "room": "Paiangan69",
+    "author": "qSukky",
     "colors": {
         "background": "",
         "chat": {
@@ -17,21 +17,21 @@
     },
     "css": {
         "font": [],
-        "import": ["https://rawgit.com/Benzi/Qluster/master/assets/css/style.css"],
+        "import": ["https://rawgit.com/aalinnfs/paiangan69/master/assets/css/style.css"],
         "rule": {}
     },
     "images": {
-        "background": "https://rawgit.com/Benzi/Qluster/master/assets/images/background.png",
+        "background": "https://rawgit.com/aalinnfs/paiangan69/master/assets/images/background.png",
         "booth": "",
-        "playback": "https://rawgit.com/Benzi/Qluster/master/assets/images/playback.png",
+        "playback": "https://rawgit.com/aalinnfs/paiangan69/master/assets/images/playback.png",
         "icons": {
-            "admin": "https://rawgit.com/Benzi/Qluster/master/assets/images/icons/admin.png",
-            "ambassador": "https://rawgit.com/Benzi/Qluster/master/assets/images/icons/ambassador.png",
-            "host": "https://rawgit.com/Benzi/Qluster/master/assets/images/icons/host.png",
-            "cohost": "https://rawgit.com/Benzi/Qluster/master/assets/images/icons/cohost.png",
-            "manager": "https://rawgit.com/Benzi/Qluster/master/assets/images/icons/manager.png",
-            "bouncer": "https://rawgit.com/Benzi/Qluster/master/assets/images/icons/bouncer.png",
-            "residentdj": "https://rawgit.com/Benzi/Qluster/master/assets/images/icons/rdj.png"
+            "admin": "https://rawgit.com/aalinnfs/paiangan69/master/assets/images/icons/admin.png",
+            "ambassador": "https://rawgit.com/aalinnfs/paiangan69/master/assets/images/icons/ambassador.png",
+            "host": "https://rawgit.com/aalinnfs/paiangan69/master/assets/images/icons/host.png",
+            "cohost": "https://rawgit.com/aalinnfs/paiangan69/master/assets/images/icons/cohost.png",
+            "manager": "https://rawgit.com/aalinnfs/paiangan69/master/assets/images/icons/manager.png",
+            "bouncer": "https://rawgit.com/aalinnfs/paiangan69/master/assets/images/icons/bouncer.png",
+            "residentdj": "https://rawgit.com/aalinnfs/paiangan69/master/assets/images/icons/rdj.png"
         }
     },
     "rules": {
