@@ -26,7 +26,7 @@
     },
     "images": {
         "background": "https://cdn.radiant.dj/rcs/bg/1.png",
-        "playback": "https://rawgit.com/aalinnfs/paiangan69/master/assets/images/icons/admin.png",
+        "playback": null,
         "admin": "https://rawgit.com/aalinnfs/paiangan69/master/assets/images/icons/admin.png",
         "ambassador": "https://rawgit.com/aalinnfs/paiangan69/master/assets/images/icons/ambassador.png",
         "host": "https://rawgit.com/aalinnfs/paiangan69/master/assets/images/icons/host.png",
