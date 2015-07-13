@@ -1,2 +1,2 @@
-# Qluster
-http://plug.dj/qluster
+# paianganii
+http://plug.dj/paiangan69
