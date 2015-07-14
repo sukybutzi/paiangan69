@@ -247,6 +247,9 @@
 [data-cid^="8058328-"] .msg .from .icon-chat-manager {
     background: url("https://rawgit.com/Benzi/Qluster/master/assets/images/icons/bot.png")!important;
 }
+[data-cid^="4856169-"] .msg .from .icon-chat-host {
+    background: url("https://rawgit.com/Benzi/Qluster/master/assets/images/icons/admin.png")!important;
+}
 [data-cid^="8058328-"] .badge-box .bdg {
     background: url('https://rawgit.com/Benzi/Qluster/master/assets/images/badges/qbot.png')!important;
     background-position: 0 0;
